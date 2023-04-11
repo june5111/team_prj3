@@ -74,7 +74,6 @@
 		<div id="naviBar">navi(1000x60)</div>
 	</div>
 	<div id="container">
-	나는 모민경 입니다.
 	</div>
 	<div id="footer">footer(1000x60)
 		<div id="flogo">Copyright&copy;Class 4. All rights reserved.</div>
