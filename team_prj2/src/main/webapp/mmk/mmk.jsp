@@ -13,7 +13,7 @@
 	margin: 0px auto;
 }
 
-#header {
+#header { 
 	height: 200px;
 	position: relative;
 	background: #ffffff url(http://localhost/jsp_prj1/common/images/header_bg.png) repeat-x;
